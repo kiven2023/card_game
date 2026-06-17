@@ -1,0 +1,11 @@
+[
+  {
+    "id": "001",
+    "name": "zzz",
+    "card_type": "monster",
+    "cost": 0,
+    "description": "",
+    "attack": 1000,
+    "health": 1000
+  }
+]
